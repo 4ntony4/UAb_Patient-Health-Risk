@@ -1,0 +1,8 @@
+123456700;3;4;n;s;n;n;n;n;n;medio
+123456701;2;3;n;n;n;n;n;n;n;medio
+123456702;2;3;n;n;n;n;n;n;n;baixo
+123456709;0;1;n;n;n;n;n;n;s;baixo
+123456800;4;9;s;n;s;s;s;s;s;medio
+123456801;4;4;s;s;n;s;s;s;s;baixo
+123456802;2;5;s;s;n;s;s;s;s;baixo
+123456803;2;5;s;esta;linha;esta;errada
