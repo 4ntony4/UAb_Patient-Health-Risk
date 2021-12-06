@@ -1,4 +1,4 @@
-# UAb_patientHealthRisk
+# Patient Health Risk
 
 [![OCaml Ready to Run](https://img.shields.io/badge/OCaml-Ready_to_Run-informational?logo=ocaml&labelColor=white&color=orange)][RunMyOCaml]
 
